@@ -17,4 +17,4 @@ framework = { path = "framework" }
 regex = "1.6.0"
 serde = { version = "1.0.140", features = ["derive"] }
 serde_json = "1.0.82"
-uptime_lib = "0.2.1"
+uptime_lib = "0.2.2"
